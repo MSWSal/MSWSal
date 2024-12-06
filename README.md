@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sahan Salgado</h1>
 <h3 align="center">A Software Engineer Undergraduate from University of Colombo School of Computing Sri Lanka</h3>
 
+- 🔭 I’m currently working on [PoHMBlockchain](https://github.com/HasalaDissanayake/PoHMChain.git)
+
+- 🌱 I’m currently learning **Blockchain, ML**
+
+- 📫 How to reach me **sahansalgado10@gmail.com**
+
+- ⚡ Fun fact **I'm a chill guy**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sahan salgado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahan salgado" height="30" width="40" /></a>
@@ -14,4 +22,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mswsal&show_icons=true&locale=en&layout=compact" alt="mswsal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mswsal&" alt="mswsal" /></p>
-
