@@ -99,7 +99,7 @@
 ###
 
 <div align="center">
-  ![Steam Status](https://raw.githubusercontent.com/<your-username>/<repo-name>/main/assets/steam-card.svg)
+  ![Steam Status](https://raw.githubusercontent.com/MSWSal/Steam_Stats/main/assets/steam-card.svg)
 </div>
 
 ###
