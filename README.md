@@ -99,9 +99,7 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31waii4clumvdlfndfqgfujaz6vq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31waii4clumvdlfndfqgfujaz6vq&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
+  ![Steam Status](https://raw.githubusercontent.com/<your-username>/<repo-name>/main/assets/steam-card.svg)
 </div>
 
 ###
